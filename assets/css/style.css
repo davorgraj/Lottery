@@ -1,0 +1,21 @@
+.center {
+  margin: auto;
+  width: 600px;
+}
+.center button {
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  display: block;
+  margin-top: 10px;
+}
+.center button a {
+  font-size: 18px;
+  text-decoration: none;
+}
+p {
+  display: inline;
+  font-size: 18px;
+  color: red;
+  margin: 5px;
+}
